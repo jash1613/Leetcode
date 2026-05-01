@@ -14,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/jash1613/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Database
+|  |
+| ------- |
+| [1965-employees-with-missing-information](https://github.com/jash1613/Leetcode/tree/master/1965-employees-with-missing-information) |
 <!---LeetCode Topics End-->
