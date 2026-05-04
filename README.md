@@ -18,4 +18,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1965-employees-with-missing-information](https://github.com/jash1613/Leetcode/tree/master/1965-employees-with-missing-information) |
+## Array
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/jash1613/Leetcode/tree/master/0048-rotate-image) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/jash1613/Leetcode/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/jash1613/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
