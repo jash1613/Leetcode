@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/jash1613/Leetcode/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/jash1613/Leetcode/tree/master/0155-min-stack) |
 | [1021-remove-outermost-parentheses](https://github.com/jash1613/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Design
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/jash1613/Leetcode/tree/master/0071-simplify-path) |
 | [1021-remove-outermost-parentheses](https://github.com/jash1613/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Database
 |  |
