@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/jash1613/Leetcode/tree/master/0071-simplify-path) |
+| [0709-to-lower-case](https://github.com/jash1613/Leetcode/tree/master/0709-to-lower-case) |
 | [1021-remove-outermost-parentheses](https://github.com/jash1613/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Database
 |  |
