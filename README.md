@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/jash1613/Leetcode/tree/master/0176-second-highest-salary) |
 | [1965-employees-with-missing-information](https://github.com/jash1613/Leetcode/tree/master/1965-employees-with-missing-information) |
 ## Array
 |  |
