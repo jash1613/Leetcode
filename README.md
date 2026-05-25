@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/jash1613/Leetcode/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/jash1613/Leetcode/tree/master/0069-sqrtx) |
 ## Matrix
 |  |
 | ------- |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/jash1613/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/jash1613/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
