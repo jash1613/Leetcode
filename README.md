@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/jash1613/Leetcode/tree/master/0197-rising-temperature) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/jash1613/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1045-customers-who-bought-all-products](https://github.com/jash1613/Leetcode/tree/master/1045-customers-who-bought-all-products) |
+| [1873-calculate-special-bonus](https://github.com/jash1613/Leetcode/tree/master/1873-calculate-special-bonus) |
 | [1965-employees-with-missing-information](https://github.com/jash1613/Leetcode/tree/master/1965-employees-with-missing-information) |
 ## Array
 |  |
