@@ -13,7 +13,7 @@ class Solution {
             lmax[i]=l;
             
         }
-        for(int i=height.length-1;i>0;i--)
+        for(int i=height.length-1;i>=0;i--)
         {
             if(r<height[i])
             {
