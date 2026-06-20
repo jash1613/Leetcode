@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/jash1613/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/jash1613/Leetcode/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/jash1613/Leetcode/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/jash1613/Leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/jash1613/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/jash1613/Leetcode/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/jash1613/Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/jash1613/Leetcode/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/jash1613/Leetcode/tree/master/0071-simplify-path) |
+| [0394-decode-string](https://github.com/jash1613/Leetcode/tree/master/0394-decode-string) |
 | [0709-to-lower-case](https://github.com/jash1613/Leetcode/tree/master/0709-to-lower-case) |
 | [1021-remove-outermost-parentheses](https://github.com/jash1613/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/jash1613/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/jash1613/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/jash1613/Leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/jash1613/Leetcode/tree/master/0152-maximum-product-subarray) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/jash1613/Leetcode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
