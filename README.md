@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/jash1613/Leetcode/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/jash1613/Leetcode/tree/master/0071-simplify-path) |
+| [0125-valid-palindrome](https://github.com/jash1613/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/jash1613/Leetcode/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/jash1613/Leetcode/tree/master/0394-decode-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jash1613/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jash1613/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/jash1613/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/jash1613/Leetcode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jash1613/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jash1613/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
