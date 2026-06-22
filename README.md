@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jash1613/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/jash1613/Leetcode/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/jash1613/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/jash1613/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/jash1613/Leetcode/tree/master/0344-reverse-string) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/jash1613/Leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/jash1613/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/jash1613/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
