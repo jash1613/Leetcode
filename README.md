@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/jash1613/Leetcode/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/jash1613/Leetcode/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/jash1613/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0595-big-countries](https://github.com/jash1613/Leetcode/tree/master/0595-big-countries) |
 | [1045-customers-who-bought-all-products](https://github.com/jash1613/Leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1251-average-selling-price](https://github.com/jash1613/Leetcode/tree/master/1251-average-selling-price) |
 | [1527-patients-with-a-condition](https://github.com/jash1613/Leetcode/tree/master/1527-patients-with-a-condition) |
