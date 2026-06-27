@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/jash1613/Leetcode/tree/master/1148-article-views-i) |
 | [1251-average-selling-price](https://github.com/jash1613/Leetcode/tree/master/1251-average-selling-price) |
 | [1527-patients-with-a-condition](https://github.com/jash1613/Leetcode/tree/master/1527-patients-with-a-condition) |
+| [1683-invalid-tweets](https://github.com/jash1613/Leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/jash1613/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/jash1613/Leetcode/tree/master/1873-calculate-special-bonus) |
 | [1965-employees-with-missing-information](https://github.com/jash1613/Leetcode/tree/master/1965-employees-with-missing-information) |
