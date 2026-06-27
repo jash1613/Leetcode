@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/jash1613/Leetcode/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/jash1613/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/jash1613/Leetcode/tree/master/0595-big-countries) |
+| [0620-not-boring-movies](https://github.com/jash1613/Leetcode/tree/master/0620-not-boring-movies) |
 | [1045-customers-who-bought-all-products](https://github.com/jash1613/Leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1148-article-views-i](https://github.com/jash1613/Leetcode/tree/master/1148-article-views-i) |
 | [1251-average-selling-price](https://github.com/jash1613/Leetcode/tree/master/1251-average-selling-price) |
