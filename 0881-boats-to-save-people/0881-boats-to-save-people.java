@@ -10,24 +10,14 @@ class Solution {
               if(sum<=limit)
               {
                 l++;
-                h--;
-                c=c+1;
+                
+               
               }
-              else if(sum>limit)
-              {
-                    int temp=Math.max(people[l],people[h]);
-                    if(temp==people[l] && temp<=limit)
-                    {
-                             l++;
-                             c=c+1;
-                    }
-                    else if(temp==people[h] && temp<=limit)
-                    {
-                      h--;
-                      c=c+1;
-                    }
-              }
+               c=c+1;
+              h--;
+              
+         }
+         return c;
         }
-        return c;
+        
     }
-}
