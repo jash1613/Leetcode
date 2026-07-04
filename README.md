@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/jash1613/Leetcode/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/jash1613/Leetcode/tree/master/0394-decode-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jash1613/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/jash1613/Leetcode/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/jash1613/Leetcode/tree/master/0709-to-lower-case) |
 | [1021-remove-outermost-parentheses](https://github.com/jash1613/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/jash1613/Leetcode/tree/master/1143-longest-common-subsequence) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/jash1613/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jash1613/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/jash1613/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/jash1613/Leetcode/tree/master/0567-permutation-in-string) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/jash1613/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/jash1613/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Simulation
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/jash1613/Leetcode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jash1613/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jash1613/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/jash1613/Leetcode/tree/master/0567-permutation-in-string) |
 | [0881-boats-to-save-people](https://github.com/jash1613/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/jash1613/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jash1613/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/jash1613/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/jash1613/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/jash1613/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Depth-First Search
 |  |
