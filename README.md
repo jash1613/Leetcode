@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jash1613/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/jash1613/Leetcode/tree/master/0071-simplify-path) |
+| [0144-binary-tree-preorder-traversal](https://github.com/jash1613/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/jash1613/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/jash1613/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/jash1613/Leetcode/tree/master/0394-decode-string) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/jash1613/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/jash1613/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jash1613/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/jash1613/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/jash1613/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/jash1613/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/jash1613/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jash1613/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/jash1613/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/jash1613/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Sliding Window
 |  |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/jash1613/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/jash1613/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jash1613/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/jash1613/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Game Theory
 |  |
 | ------- |
