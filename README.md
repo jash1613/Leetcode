@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/jash1613/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/jash1613/Leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/jash1613/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0841-keys-and-rooms](https://github.com/jash1613/Leetcode/tree/master/0841-keys-and-rooms) |
 ## Binary Tree
 |  |
 | ------- |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/jash1613/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jash1613/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/jash1613/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0841-keys-and-rooms](https://github.com/jash1613/Leetcode/tree/master/0841-keys-and-rooms) |
 ## Game Theory
 |  |
 | ------- |
@@ -324,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/jash1613/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Graph Theory
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/jash1613/Leetcode/tree/master/0841-keys-and-rooms) |
 <!---LeetCode Topics End-->
