@@ -14,19 +14,31 @@ class Solution {
         // }
         // return l1.get(0);
         // aapporach2
-        Queue<Integer> q=new ArrayDeque<>();
-        for(int i=1;i<=n;i++)
+        // Queue<Integer> q=new ArrayDeque<>();
+        // for(int i=1;i<=n;i++)
+        // {
+        //     q.offer(i);
+        // }
+        // while(q.size()>1)
+        // {
+        //     for(int i=0;i<k-1;i++)
+        //     {
+        //         q.offer(q.poll());
+        //     }
+        //     q.poll();
+        // }
+        // return q.peek();
+        int idx=findwinner(n,k);
+        return idx+1;
+    }
+    public int findwinner(int n,int k)
+    {
+        if(n==1)
         {
-            q.offer(i);
+            return 0;
         }
-        while(q.size()>1)
-        {
-            for(int i=0;i<k-1;i++)
-            {
-                q.offer(q.poll());
-            }
-            q.poll();
-        }
-        return q.peek();
+        int idx=findwinner(n-1,k);
+        idx=(idx+k)%n;
+        return idx;
     }
 }
