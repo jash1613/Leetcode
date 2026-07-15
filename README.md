@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/jash1613/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/jash1613/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/jash1613/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/jash1613/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/jash1613/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/jash1613/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/jash1613/Leetcode/tree/master/0051-n-queens) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/jash1613/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/jash1613/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/jash1613/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/jash1613/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/jash1613/Leetcode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/jash1613/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/jash1613/Leetcode/tree/master/0078-subsets) |
