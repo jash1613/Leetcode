@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jash1613/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/jash1613/Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/jash1613/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/jash1613/Leetcode/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/jash1613/Leetcode/tree/master/0071-simplify-path) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jash1613/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jash1613/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/jash1613/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/jash1613/Leetcode/tree/master/0118-pascals-triangle) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jash1613/Leetcode/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/jash1613/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/jash1613/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/jash1613/Leetcode/tree/master/0090-subsets-ii) |
