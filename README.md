@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/jash1613/Leetcode/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/jash1613/Leetcode/tree/master/0881-boats-to-save-people) |
+| [1382-balance-a-binary-search-tree](https://github.com/jash1613/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/jash1613/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Prefix Sum
 |  |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jash1613/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/jash1613/Leetcode/tree/master/0053-maximum-subarray) |
+| [1382-balance-a-binary-search-tree](https://github.com/jash1613/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/jash1613/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/jash1613/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/jash1613/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/jash1613/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/jash1613/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/jash1613/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/jash1613/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/jash1613/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/jash1613/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/jash1613/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Sliding Window
 |  |
@@ -362,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/jash1613/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/jash1613/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0841-keys-and-rooms](https://github.com/jash1613/Leetcode/tree/master/0841-keys-and-rooms) |
+| [1382-balance-a-binary-search-tree](https://github.com/jash1613/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Game Theory
 |  |
 | ------- |
@@ -409,4 +414,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/jash1613/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/jash1613/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/jash1613/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
