@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/jash1613/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/jash1613/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/jash1613/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/jash1613/Leetcode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/jash1613/Leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/jash1613/Leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/jash1613/Leetcode/tree/master/0735-asteroid-collision) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/jash1613/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/jash1613/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jash1613/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/jash1613/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/jash1613/Leetcode/tree/master/0733-flood-fill) |
 ## Monotonic Stack
 |  |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/jash1613/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/jash1613/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/jash1613/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0695-max-area-of-island](https://github.com/jash1613/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/jash1613/Leetcode/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/jash1613/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/jash1613/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/jash1613/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/jash1613/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/jash1613/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0695-max-area-of-island](https://github.com/jash1613/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/jash1613/Leetcode/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/jash1613/Leetcode/tree/master/0841-keys-and-rooms) |
 | [1382-balance-a-binary-search-tree](https://github.com/jash1613/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -392,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/jash1613/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/jash1613/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jash1613/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/jash1613/Leetcode/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/jash1613/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
