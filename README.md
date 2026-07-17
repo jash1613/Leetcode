@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/jash1613/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1732-find-the-highest-altitude](https://github.com/jash1613/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/jash1613/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1833-maximum-ice-cream-bars](https://github.com/jash1613/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jash1613/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/jash1613/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/jash1613/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/jash1613/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/jash1613/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/jash1613/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1833-maximum-ice-cream-bars](https://github.com/jash1613/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/jash1613/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Greedy
 |  |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/jash1613/Leetcode/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/jash1613/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1382-balance-a-binary-search-tree](https://github.com/jash1613/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1833-maximum-ice-cream-bars](https://github.com/jash1613/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/jash1613/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Prefix Sum
 |  |
@@ -439,4 +442,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/jash1613/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/jash1613/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/jash1613/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/jash1613/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
