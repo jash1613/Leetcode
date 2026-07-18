@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/jash1613/Leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/jash1613/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/jash1613/Leetcode/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/jash1613/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jash1613/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/jash1613/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/jash1613/Leetcode/tree/master/0877-stone-game) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/jash1613/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/jash1613/Leetcode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/jash1613/Leetcode/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/jash1613/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/jash1613/Leetcode/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/jash1613/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Recursion
