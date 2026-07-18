@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/jash1613/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jash1613/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/jash1613/Leetcode/tree/master/0200-number-of-islands) |
+| [0215-kth-largest-element-in-an-array](https://github.com/jash1613/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/jash1613/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/jash1613/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/jash1613/Leetcode/tree/master/0283-move-zeroes) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/jash1613/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/jash1613/Leetcode/tree/master/0049-group-anagrams) |
+| [0215-kth-largest-element-in-an-array](https://github.com/jash1613/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jash1613/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0881-boats-to-save-people](https://github.com/jash1613/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1331-rank-transform-of-an-array](https://github.com/jash1613/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jash1613/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/jash1613/Leetcode/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/jash1613/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/jash1613/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
@@ -446,4 +449,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/jash1613/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/jash1613/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/jash1613/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
