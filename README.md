@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/jash1613/Leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/jash1613/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/jash1613/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/jash1613/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/jash1613/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/jash1613/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/jash1613/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jash1613/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/jash1613/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/jash1613/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/jash1613/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/jash1613/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/jash1613/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -465,5 +467,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/jash1613/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/jash1613/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
