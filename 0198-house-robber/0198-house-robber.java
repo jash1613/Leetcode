@@ -18,4 +18,5 @@ class Solution {
            dp[i]=Math.max(nums[i]+solve(nums,i+2),solve(nums,i+1));
            return dp[i];
     }
+    
 }
