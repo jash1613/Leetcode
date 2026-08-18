@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-customers-who-bought-all-products](https://github.com/jash1613/Leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1068-product-sales-analysis-i](https://github.com/jash1613/Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/jash1613/Leetcode/tree/master/1075-project-employees-i) |
+| [1084-sales-analysis-iii](https://github.com/jash1613/Leetcode/tree/master/1084-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/jash1613/Leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/jash1613/Leetcode/tree/master/1148-article-views-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/jash1613/Leetcode/tree/master/1174-immediate-food-delivery-ii) |
