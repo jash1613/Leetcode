@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/jash1613/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/jash1613/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/jash1613/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/jash1613/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/jash1613/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3731-find-missing-elements](https://github.com/jash1613/Leetcode/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/jash1613/Leetcode/tree/master/3838-weighted-word-mapping) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/jash1613/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jash1613/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/jash1613/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/jash1613/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3838-weighted-word-mapping](https://github.com/jash1613/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
