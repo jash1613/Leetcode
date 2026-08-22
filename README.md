@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/jash1613/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/jash1613/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/jash1613/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/jash1613/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jash1613/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Matrix
 |  |
