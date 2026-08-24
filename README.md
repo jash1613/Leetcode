@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/jash1613/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/jash1613/Leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/jash1613/Leetcode/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/jash1613/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jash1613/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/jash1613/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Dynamic Programming
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/jash1613/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/jash1613/Leetcode/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/jash1613/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/jash1613/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/jash1613/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/jash1613/Leetcode/tree/master/0342-power-of-four) |
