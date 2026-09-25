@@ -19,7 +19,7 @@ class Solution {
         return isMirror(root.left, root.right);
     }
 
-    private boolean isMirror(TreeNode left, TreeNode right) {
+    public  boolean isMirror(TreeNode left, TreeNode right) {
         if (left == null && right == null)
             return true;
 
@@ -31,5 +31,6 @@ class Solution {
 
         return isMirror(left.left, right.right)
             && isMirror(left.right, right.left);
+    
     }
 }
