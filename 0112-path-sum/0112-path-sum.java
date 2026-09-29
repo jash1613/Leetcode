@@ -15,21 +15,23 @@
  */
 class Solution {
     public boolean hasPathSum(TreeNode root, int targetSum) {
-        int currentsum=0;
-        return pathsum(root,targetSum,currentsum);
+             return dfs(root, 0, targetSum);
     }
-    public boolean pathsum(TreeNode root,int sum,int s)
-    {
-        if(root==null)
-        {
+
+    private boolean dfs(TreeNode root, int sum, int targetSum) {
+
+        if (root == null) {
             return false;
         }
-        s+=root.val;
-        if(s==sum && (root.left==null && root.right==null))
-        {
-            return true;
+
+        sum += root.val;
+
+        // We must check at a leaf
+        if (root.left == null && root.right == null) {
+            return sum == targetSum;
         }
-        return pathsum(root.left,sum,s) || pathsum(root.right,sum,s);
-  
+
+        return dfs(root.left, sum, targetSum)
+                || dfs(root.right, sum, targetSum);
     }
 }
