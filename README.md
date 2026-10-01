@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/jash1613/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jash1613/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/jash1613/Leetcode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/jash1613/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jash1613/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/jash1613/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jash1613/Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/jash1613/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/jash1613/Leetcode/tree/master/0058-length-of-last-word) |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/jash1613/Leetcode/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jash1613/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jash1613/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## DP on Trees
