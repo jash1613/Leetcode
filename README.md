@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/jash1613/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/jash1613/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jash1613/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/jash1613/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/jash1613/Leetcode/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/jash1613/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3903-smallest-stable-index-i](https://github.com/jash1613/Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/jash1613/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1833-maximum-ice-cream-bars](https://github.com/jash1613/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/jash1613/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/jash1613/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/jash1613/Leetcode/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/jash1613/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/jash1613/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/jash1613/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/jash1613/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
 | ------- |
