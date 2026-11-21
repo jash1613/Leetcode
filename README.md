@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/jash1613/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/jash1613/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/jash1613/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1302-deepest-leaves-sum](https://github.com/jash1613/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1382-balance-a-binary-search-tree](https://github.com/jash1613/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/jash1613/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/jash1613/Leetcode/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/jash1613/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/jash1613/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/jash1613/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1971-find-if-path-exists-in-graph](https://github.com/jash1613/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/jash1613/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/jash1613/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/jash1613/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1302-deepest-leaves-sum](https://github.com/jash1613/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1382-balance-a-binary-search-tree](https://github.com/jash1613/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/jash1613/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Sliding Window
@@ -537,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/jash1613/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/jash1613/Leetcode/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/jash1613/Leetcode/tree/master/0841-keys-and-rooms) |
+| [1302-deepest-leaves-sum](https://github.com/jash1613/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1382-balance-a-binary-search-tree](https://github.com/jash1613/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/jash1613/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Game Theory
